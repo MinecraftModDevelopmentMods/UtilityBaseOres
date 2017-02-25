@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "utilitybaseores:blocks/blaze_ore"
+    }
+}
